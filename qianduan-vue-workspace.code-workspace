@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://ssh-remote+bja.sealos.run_ns-f7i56dyw_devbox-vue/home/devbox/project"
+		}
+	],
+	"remoteAuthority": "ssh-remote+bja.sealos.run_ns-f7i56dyw_devbox-vue",
+	"settings": {}
+}
